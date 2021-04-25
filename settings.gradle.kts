@@ -1,2 +1,1 @@
-rootProject.name = "KotlinPaperTamplete"
-
+rootProject.name = "RhythmGame"
